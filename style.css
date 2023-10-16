@@ -1,0 +1,97 @@
+.container {
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container-inside {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.inputvaluesheading {
+    margin-bottom: 10px;
+    padding-top: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-left: 20px;
+    border-bottom: 1px solid #cccbcb;
+    background-color: #f3efef;
+
+    padding-bottom: 10px;
+}
+
+.data-cell {
+    padding-left: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    border: 1px solid #000;
+    padding: 10px;
+
+}
+
+#header h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#count-form input {
+    margin-top: 8px;
+    width: 100%;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 6px;
+    border-color: #d0cccc;
+}
+
+#input-form button {
+    color: white;
+    background-color: #46585A;
+    margin-top: 20px;
+    padding: 6px;
+    border: 1px solid #000;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-bottom: 20px;
+}
+
+#submit-button button {
+    padding: 7px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-bottom: 20px;
+    color: #e4e1e1;
+    border: none;
+    background-color: rgb(240, 51, 51);
+    border-radius: 3px;
+}
+
+#inputFields {
+
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+input[type="number"] {
+    margin-bottom: 10px;
+    margin-top: 8px;
+    width: 100%;
+    border: 1px solid #000;
+    border-width: 1px;
+    padding: 6px 6px 6px 6px;
+    border-color: #e4e1e1;
+}
+
+
+#inputFields input {
+    margin-bottom: 10px;
+    margin-top: 8px;
+    width: 100%;
+    border: 1px solid #000;
+    border-width: 1px;
+    padding: 6px 6px 6px 6px;
+    border-color: #e4e1e1;
+}
